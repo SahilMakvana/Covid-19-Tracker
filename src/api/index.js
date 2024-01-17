@@ -40,6 +40,3 @@ export const fetchCountries = async () => {
 }
 
 // Developed by SahilMakvana
-// Developed by SahilMakvana
-// Developed by SahilMakvana
-// Developed by SahilMakvana
