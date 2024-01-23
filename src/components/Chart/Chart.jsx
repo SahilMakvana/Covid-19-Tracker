@@ -66,3 +66,5 @@ const Chart = ({ data:{ confirmed, deaths, recovered }, country }) => {
     )
 }
 export default Chart;
+
+// Developed by SahilMakvana
